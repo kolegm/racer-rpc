@@ -28,7 +28,7 @@ backend.rpc.on('rpc-without-callback', function (arg1, arg2) {
   arg1 === 'arg1' // true
   arg2 === 'arg2' // true
 });
-```javascript
+```
 
 On client:
 ```javascript
@@ -40,4 +40,4 @@ model.call('rpc-with-callback', 'arg1', 'arg2', function (err, arg3, arg4) {
 
 // Without callback
 model.call('rpc-withour-callback', 'arg1', 'arg2');
-```javascript
+```
