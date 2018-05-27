@@ -10,7 +10,7 @@
     "lodash": "^3.10.0"
   },
   "peerDependencies": {
-    "racer": ">= 0.8.0 < 0.9"
+    "racer": ">= 0.8.0"
   },
   "author": "cjblomqvist <carl@cjblomqvist.com>",
   "license": "MIT",
