@@ -13,6 +13,12 @@
     "racer": ">= 0.8.0"
   },
   "author": "cjblomqvist <carl@cjblomqvist.com>",
+  "contributors": [
+    {
+      "name": "Oleg Kravchuk",
+      "email": "kolegm.real@gmail.com"
+    }
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
