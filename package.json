@@ -1,13 +1,13 @@
 {
   "name": "racer-rpc",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Racer/Derby plugin for enabling RPC",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "lodash": "^3.10.0"
+    "lodash": "^4.17.11"
   },
   "peerDependencies": {
     "racer": ">= 0.8.0"
