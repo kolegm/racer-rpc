@@ -1,3 +1,9 @@
+# @deprecated package
+
+I recommend to use [racer-model-rpc](https://github.com/kolegm/racer-model-rpc) instead of the current package
+
+-----------------
+
 # racer-rpc
 Racer/Derby plugin for enabling RPC
 
